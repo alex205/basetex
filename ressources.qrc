@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/ressources/images">
+        <file alias="ico">ico.png</file>
+        <file alias="quitter">quitter.png</file>
+        <file alias="sauvegarder">sauvegarder.png</file>
+        <file alias="charger">charger.png</file>
+    </qresource>
+</RCC>
