@@ -18,12 +18,12 @@ void Fenetre::generer()
      }
 
      //On délcare des QStrings dans lesquelles on va écrire le code
-     QString documentClass;
-     QString packages;
-     QString macros;
-     QString fancy;
-     QString titlePage;
-     QString body;
+     QString documentClass = "";
+     QString packages = "";
+     QString macros = "";
+     QString fancy = "";
+     QString titlePage = "";
+     QString body = "";
 
      QString police = QString::number(m_police->value()); //on caste la taille de police (int) en QString
 
